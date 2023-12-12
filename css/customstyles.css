@@ -1,0 +1,63 @@
+.homebackground {
+    background-image: url('../assets/img/potterlightback.jpg');
+    background-position: top right;
+    /* background-size: cover; */
+}
+
+img {
+    border-radius: 50%;
+    border-width: 5px solid;
+    border-color: maroon;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    color: black;
+}
+
+li {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: normal;
+    color: black;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: maroon;
+}
+
+.househeading {
+    font-weight: bold;
+    font-style: normal;
+    color: maroon;
+}
+
+.header {
+    background-color: tan;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.leftmenu {
+    background-color: #e6e6e6;
+    width: 200px;
+    padding: 20px;
+    float: left;
+}
+
+.mainbody {
+    padding: 20px;
+    margin-left: 220px;
+    text-indent: 2%;
+}
